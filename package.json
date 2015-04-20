@@ -1,0 +1,26 @@
+{
+  "name": "npi-js",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amida-tech/npi-js.git"
+  },
+  "keywords": [
+    "blue-button",
+    "amida",
+    "dre"
+  ],
+  "author": "Matt Martz (matt.martz@amida-tech.com)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/amida-tech/npi-js/issues"
+  },
+  "dependencies": {
+    "bloom-js": "0.0.3"
+  }
+}
