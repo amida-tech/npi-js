@@ -1,9 +1,15 @@
 # npi-js
+========
 
-## find.js
+National Provider Identifier (NPI) Lookup and Extraction
 
-Uses BloomAPI to try and match provider to NPI
+This library provides the following functionality:
 
-## process.js
+* ```find.js``` connects to BloomAPI and looks up provider information in the National Plan and Provider Enumeration System (NPPES)
+* ```process.js``` parses out providers from multiple sections of a blue-button record
 
-Reads the Master Health Record and separates out providers from the multiple sections
+
+
+## License
+
+Licensed under [Apache 2.0](./LICENSE).
