@@ -19,5 +19,14 @@ npi.find.getNPI(testObj,function(err,perfObj,results) {
 		console.log(err);
 	} else {
 		console.log("Here" + JSON.stringify(results,null,4));
+
+
+		npi.find.getData(1073624029, function(err, results) {
+			if (err) {
+				console.log(err);
+			} else {
+				console.log(results);
+			}
+		});
 	}
 });
