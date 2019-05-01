@@ -16,7 +16,7 @@
     "dre"
   ],
   "author": "Matt Martz (matt.martz@amida-tech.com)",
-  "license": "BSD",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/amida-tech/npi-js/issues"
   },
